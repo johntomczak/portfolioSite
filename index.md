@@ -22,6 +22,6 @@ Podcast, link
 
 Google Colab Notebooks, link
 
-[Contact Me](mailto:john.jr.tomczak@me.com?subject=[Nice Website])
+[Contact Me](mailto:john.jr.tomczak@me.com?subject=Nice Website)
 
 Wildcard
