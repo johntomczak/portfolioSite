@@ -18,10 +18,10 @@ Narrative Bio, text
 
 [Comments, on Twitter](https://twitter.com/JJT1996)
 
+[Email Me](mailto:john.jr.tomczak@me.com?subject=Nice Website)
+
 Podcast, link
 
 Google Colab Notebooks, link
-
-[Email Me](mailto:john.jr.tomczak@me.com?subject=Nice Website)
 
 Wildcard
