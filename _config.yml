@@ -3,3 +3,10 @@ description: Thanks for checking out my page, and hopefully then my work. Please
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
