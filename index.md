@@ -18,9 +18,9 @@ My goal here is to be brief and introductory Therefore, once this page is final 
 
 [Code, on GitHub (highlights below)](https://github.com/johntomczak)
 
-* [arrays_practice](https://github.com/johntomczak/arrays_practice) code from a recent demo lesson I gave in an interview over Zoom
-* [corona_da - a work in progress on OpenData data from the beginning of the US's shutdowns](https://github.com/johntomczak/corona_da)
-* [insta_orgo_test - live-running project (always still in dev) I made to help organize my Instapaper library... long-term goal is to add some ML article categorization to it](https://github.com/johntomczak/insta_orgo_test)
+* [arrays_practice](https://github.com/johntomczak/arrays_practice) - code from a recent demo lesson I gave in an interview over Zoom
+* [corona_da](https://github.com/johntomczak/corona_da) - a work in progress on OpenData data from the beginning of the US's shutdowns
+* [insta_orgo_test](https://github.com/johntomczak/insta_orgo_test) - live-running project (always still in dev) I made to help organize my Instapaper library
 
 [Posts, on Substack](https://jjtposts.substack.com/people/1046252-john)
 
