@@ -14,8 +14,9 @@ Previously, I spent a summer in Los Angeles working for DoubleLine, an investmen
 
 My goal here is to be brief and introductory Therefore, once this page is final and clean, I will not be actively editing it. The real stuff will be on the links below. The idea is for the site to serve as a central repository, I guess in a sense like a "digital business card" in that it is lightweight, easy to read, and provides sources of further info.
 
-[Resume.pdf](Resume.pdf){:target="_blank"}
-[Code, on GitHub](https://github.com/johntomczak)
+[Resume.pdf](Resume.pdf)
+
+[Code, on GitHub](https://github.com/johntomczak){target="_blank"}
 
 * A
 * B
