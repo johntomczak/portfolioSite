@@ -16,7 +16,7 @@ My goal here is to be brief and introductory Therefore, once this page is final 
 
 [Resume.pdf](Resume.pdf)
 
-[Code, on GitHub](https://github.com/johntomczak){target="_blank"}
+[Code, on GitHub](https://github.com/johntomczak)
 
 * A
 * B
