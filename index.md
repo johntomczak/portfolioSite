@@ -16,10 +16,4 @@ My goal here is to be brief and introductory. Therefore, once this page is final
 
 [Resume.pdf](Resume.pdf)
 
-* [arrays_practice](https://github.com/johntomczak/arrays_practice) - code from a recent demo lesson I gave in an interview over Zoom
-* [corona_da](https://github.com/johntomczak/corona_da) - a work in progress on OpenData data from the beginning of the US's shutdowns
-* [insta_orgo_test](https://github.com/johntomczak/insta_orgo_test) - live-running project (always still in dev) I made to help organize my Instapaper library
-
 [Email Me](mailto:john.jr.tomczak@me.com?subject=Nice Website)
-
-Wildcard
