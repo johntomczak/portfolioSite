@@ -1,5 +1,5 @@
 title: John James Tomczak
 description: Thanks for checking out my page, and hopefully then my work. Please do feel free to reach out.
-show_downloads: true
-google_analytics:
+show_downloads: false
+google_analytics: UA-61441279-2
 theme: jekyll-theme-minimal
