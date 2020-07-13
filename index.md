@@ -28,8 +28,4 @@ My goal here is to be brief and introductory. Therefore, once this page is final
 
 [Email Me](mailto:john.jr.tomczak@me.com?subject=Nice Website)
 
-Podcast, link
-
-Google Colab Notebooks, link
-
 Wildcard
